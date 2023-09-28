@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/-V-Patrol-Company-Assignment/static/css/main.c3d7b99c.css",
+    "main.js": "/-V-Patrol-Company-Assignment/static/js/main.f8805404.js",
+    "static/js/787.28cb0dcd.chunk.js": "/-V-Patrol-Company-Assignment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/-V-Patrol-Company-Assignment/index.html",
+    "static/media/plus.svg": "/-V-Patrol-Company-Assignment/static/media/plus.8f3ab9f72337618f2823670542a3a8e4.svg",
+    "main.c3d7b99c.css.map": "/-V-Patrol-Company-Assignment/static/css/main.c3d7b99c.css.map",
+    "main.f8805404.js.map": "/-V-Patrol-Company-Assignment/static/js/main.f8805404.js.map",
+    "787.28cb0dcd.chunk.js.map": "/-V-Patrol-Company-Assignment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d7b99c.css",
+    "static/js/main.f8805404.js"
+  ]
+}
